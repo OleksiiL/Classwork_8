@@ -1,2 +1,3 @@
 let i= 100;
-let y = 100;
+let f = 1400;
+let c = 300;
